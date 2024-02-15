@@ -1,0 +1,14 @@
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\bin\Debug\net8.0\GenericCalculationProj.exe
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\bin\Debug\net8.0\GenericCalculationProj.deps.json
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\bin\Debug\net8.0\GenericCalculationProj.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\bin\Debug\net8.0\GenericCalculationProj.dll
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\bin\Debug\net8.0\GenericCalculationProj.pdb
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.dll
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\refint\GenericCalculationProj.dll
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.pdb
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\GenericCalculationProj.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\GenericCalculationProj\GenericCalculationProj\obj\Debug\net8.0\ref\GenericCalculationProj.dll
